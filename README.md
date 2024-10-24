@@ -26,12 +26,13 @@ Grupo 32
 
 ## 📜 Descrição
 
-*Este projeto refere-se a um software de gestão de aluguel de pavilhões, onde o operador pode realizar as seguintes tarefas:*
+*Criação da arquitetura de solução para o chatbot da Dra. Jô considerando os siguentes aspectos técnicos:*
 
-- Cadastrar os pavilhões disponíveis para locação.
-- Inativar pavilhões que estavam disponíveis para locação, mas não estão mais.
-- Realizar movimentação de estoque sempre que um pavilhão for alugado ou desocupado.
-- Monitorar o estoque.
+- Definição do objetivo e escopo.
+- Tipo de chatbot.
+- Camadas da arquitetura.
+- Cuidados e boas práticas: sabe-se que dados de treinamento de qualidade são essenciais para chatbots baseados em IA.
+- Tecnologias integradas.
 
 
 ## 📁 Estrutura de pastas
@@ -52,48 +53,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-## 🔧 Como executar o código
-
-### Pré-requisitos
-Antes de executar o projeto, certifique-se de ter os seguintes pré-requisitos:
-
-- **Python**: Certifique-se de ter o Python instalado. Recomenda-se a versão 3.8 ou superior. Você pode baixar o Python [aqui](https://www.python.org/downloads/).
-  
-- **Bibliotecas Python**:
-  - `oracledb`: Biblioteca para conexão com o banco de dados Oracle.
-  - `pandas`: Biblioteca para manipulação de dados.
-  - `tabulate`: Biblioteca para formatação de tabelas no console.
-
-  Você pode instalar essas bibliotecas usando `pip`. Execute o seguinte comando no terminal:
-  ```bash
-  pip install oracledb pandas tabulate
-
-1 - Instalando o Projeto
- Clone o repositório (ou faça o download do código): git clone <URL_DO_REPOSITORIO>
-
-2 - Configure as credenciais do banco de dados
- No arquivo Python, ajuste as credenciais de conexão no método conectar_banco(): connection = oracledb.connect(user="SEU_USUARIO", password="SUA_SENHA", dsn="oracle.fiap.com.br:1521/orcl")
-
-3 - Executando o Código
- a - Abra o terminal.
- b - Navegue até o diretório do projeto.
- c - Execute o script Python: python crud.py
 
 
-### Funcionalidades
-Conexão com o Banco de Dados: O sistema estabelece uma conexão com o banco de dados Oracle.
 
-Validação e Criação de Tabelas: O sistema valida se as tabelas necessárias (pavilhoes e movimentacoes) existem, e as cria caso contrário.
-
-Cadastro de Pavilhão: Permite cadastrar novos pavilhões informando o nome, capacidade e localização.
-
-Inativação de Pavilhão: Permite inativar um pavilhão existente.
-
-Movimentação de Estoque: Registra movimentações de entrada e saída de grãos nos pavilhões.
-
-Listagem de Estoque: Exibe a lista de pavilhões disponíveis e suas movimentações.
-
-Menu Interativo: O sistema possui um menu interativo para facilitar a navegação entre as opções.
 
 
 ## 🗃 Histórico de lançamentos
