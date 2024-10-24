@@ -7,7 +7,7 @@
 <br>
 
 # Nome do projeto
-Cap 6 - Python e além
+Enterprise Challenge - Sprint 1 - Solubio
 
 ## Nome do grupo
 Grupo 32
@@ -15,6 +15,7 @@ Grupo 32
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/">Ana Beatriz Duarte Domingues</a>
 - <a href="https://www.linkedin.com/in/jrsilva051/">Junior Rodrigues da Silva</a>
+- <a href="https://www.linkedin.com/in/">Carlos Emilio Castillo Estrada</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
