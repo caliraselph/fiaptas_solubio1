@@ -10,7 +10,7 @@
 Enterprise Challenge - Sprint 1 - Solubio
 
 ## Nome do grupo
-Grupo 32
+Grupo 41
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/">Ana Beatriz Duarte Domingues</a>
