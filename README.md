@@ -35,7 +35,8 @@ Grupo 32
 - Tecnologias integradas.
 
   <img width="383" alt="image" src="https://github.com/user-attachments/assets/b59feb53-91a5-41c8-b96b-ae3d3a69965e">
-  *Imagen do documento pdf anexo na raiz "Proposta de Arquitetura para Chatbot Solubio.pdf"
+  
+  *Imagen da arquitetura de solução do documento pdf anexo na raiz "Proposta de Arquitetura para Chatbot Solubio.pdf"
 
 
 
