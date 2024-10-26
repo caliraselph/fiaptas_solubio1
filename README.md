@@ -34,6 +34,10 @@ Grupo 32
 - Cuidados e boas práticas: sabe-se que dados de treinamento de qualidade são essenciais para chatbots baseados em IA.
 - Tecnologias integradas.
 
+  <img width="383" alt="image" src="https://github.com/user-attachments/assets/b59feb53-91a5-41c8-b96b-ae3d3a69965e">
+  *Imagen do documento pdf anexo na raiz "Proposta de Arquitetura para Chatbot Solubio.pdf"
+
+
 
 ## 📁 Estrutura de pastas
 
